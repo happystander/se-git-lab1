@@ -29,6 +29,11 @@
             <artifactId>jgraphx</artifactId>
             <version>2.0.0.1</version>
         </dependency>
+        <!--        <dependency>-->
+<!--            <groupId>git test</groupId>-->
+<!--            <artifactId>git test</artifactId>-->
+<!--            <version>git test</version>-->
+<!--        </dependency>-->
 <!--        &lt;!&ndash; 定义可用于JavaFX UI工具包的UI控件、图表和外观。 &ndash;&gt;-->
 <!--        <dependency>-->
 <!--            <groupId>org.openjfx</groupId>-->
